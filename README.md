@@ -1,5 +1,9 @@
 # RFID-based-Smart-Parking-System-using-ESP32
 This project is an RFID-based Smart Parking System implemented using an ESP32 microcontroller.
+![IMG_20230826_151135_525](https://github.com/Muhaiminul-Hasan/RFID-based-Smart-Parking-System-using-ESP32/assets/50764001/16582899-4241-4595-9542-c45b30e224dc)
+
+
+![IMG_20230826_151035_058](https://github.com/Muhaiminul-Hasan/RFID-based-Smart-Parking-System-using-ESP32/assets/50764001/1d8434ea-38ed-46b1-afe7-a22fd31f1c89)
 
 Features
 RFID scanner on both the Entry gate and Exit gate
